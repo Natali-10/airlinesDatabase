@@ -1,3 +1,6 @@
+Create database [Tour_company (Minakov D., Pakhomova N., Ostashevska N., Kvasnii S.)]
+ collate Ukrainian_CI_AI
+
 Use [Tour_company (Minakov D., Pakhomova N., Ostashevska N., Kvasnii S.)]
 
 Create table Country
